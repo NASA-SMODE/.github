@@ -4,8 +4,8 @@ The Sub-Mesoscale Ocean Dynamics and Vertical Transport Experiment (S-MODE) is a
 
 The S-MODE GitHub organization has three main goals:
 
-1. To streamline collaborations among the science team members.
-2. To increase the transparency and accessibility of S-MODE software and data.
+1. To streamline collaborations among Science Team members.
+2. To increase transparency and accessibility of S-MODE software and data.
 3. To promote engagement with the broader community. 
 
 This effort benefits from and contributes to NASA's [Open Source Science Initiative](https://science.nasa.gov/open-science-overview).
