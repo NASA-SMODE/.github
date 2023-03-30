@@ -14,10 +14,10 @@ This effort benefits from and contributes to NASA's [Open Source Science Initiat
 
 - Please review our [Code of Conduct](https://github.com/NASA-SMODE/GuidesAndCheatsheets/blob/main/CODE_OF_CONDUCT.md) and the guidelines for [how to contribute](https://github.com/NASA-SMODE/GuidesAndCheatsheets/blob/main/CONTRIBUTING.md).
 
-:green_circle: You may find additional resources and guideliness in the repository below:
+:green_circle: You may find additional resources and guideliness in the repositories below:
 
 - [GuidesAndCheatsheets](https://github.com/NASA-SMODE/GuidesAndCheatsheets)
-
+- [2022 S-MODE Open Data Workshop](https://github.com/podaac/2022-SMODE-Open-Data-Workshop)
 
 <!---
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
